@@ -13,3 +13,4 @@
 ### 新增
 
 - 初始化素材库仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
+- `media/肆季味.md`：肆季味探店素材（环境、人员、菜品），自 `data/context/media/profile/` 迁入
