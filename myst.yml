@@ -11,6 +11,7 @@ project:
     - title: 智能体
       children:
         - file: agent/hermes-answer.md
+        - file: agent/aliyun-agentcore.md
     - title: 媒体
       children:
         - file: media/肆季味.md
