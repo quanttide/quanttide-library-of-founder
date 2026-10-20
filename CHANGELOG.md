@@ -16,3 +16,7 @@
 - `agent/hermes-answer.md`：Hermes 输出行为的控制机制（脱敏）——人格提示、每轮重建的系统提示、记忆、技能库、工具与审批策略五层，附两处不受控（会话压缩、模型侧解码）与一处结构性冲突（证明与简洁的取舍）
 - 初始化素材库仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
 - `media/肆季味.md`：肆季味探店素材（环境、人员、菜品），自 `data/context/media/profile/` 迁入
+
+### 变更
+
+- `media/肆季味.md`：迁出至归档仓 `profile/media/`；目录、toc 与 README 同步移除
