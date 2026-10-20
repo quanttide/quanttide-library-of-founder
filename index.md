@@ -6,4 +6,5 @@
 
 ## 目录
 
+- [agent/hermes-answer.md](./agent/hermes-answer.md)：Hermes 输出行为的控制机制——人格提示、系统提示、记忆、技能、工具审批五层，附两处不受控与一处结构性冲突。
 - [media/肆季味.md](./media/肆季味.md)：媒体素材——肆季味探店记录（环境、人员、菜品）。
