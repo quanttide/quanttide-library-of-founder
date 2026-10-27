@@ -12,6 +12,8 @@ project:
       children:
         - file: agent/hermes-answer.md
         - file: agent/aliyun-agentcore.md
+        - file: agent/defensive-dialogue-sources.md
+        - file: agent/defensive-style-detection.md
 site:
   template: book-theme
   options:
