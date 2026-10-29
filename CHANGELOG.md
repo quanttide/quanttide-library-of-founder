@@ -12,6 +12,8 @@
 
 ### 新增
 
+- `language/not-x-but-y-paper.md`：arXiv:2610.22249 论文梳理——「不是X，而是Y」句式的 S/O/D 判定决策树与四类验证实验
+
 - `agent/defensive-dialogue-sources.md`：中文「AI 防御性输出」素材的检索入口——平台、关键词与先读的四个入口；自 `data/context/work/library/` 迁入，正文未改
 - `agent/defensive-style-detection.md`：识别防御性表达的风格——词典、正则、LIWC 式计数、词表扩充与逻辑回归兜底的方法与流水线；自 `data/context/work/report/` 迁入，正文未改
 - `agent/aliyun-agentcore.md`：阿里云 AgentCore 的定位与协作模型——任务生命周期、Leader/Worker、结果卡片验收，与本仓工作与智能体规格的对照
