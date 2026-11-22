@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `default/infisical-vs-vault.md`：Infisical 与 Vault 的选型对比，自 `data/context` 按资产契约迁入
 - `language/not-x-but-y-paper.md`：arXiv:2610.22249 论文梳理——「不是X，而是Y」句式的 S/O/D 判定决策树与四类验证实验
 
 - `agent/defensive-dialogue-sources.md`：中文「AI 防御性输出」素材的检索入口——平台、关键词与先读的四个入口；自 `data/context/work/library/` 迁入，正文未改
