@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `math/verify.md`：AI 参与生成的 1700 万行数学证明核验记录，属外部信息，自 `docs/gallery/math/` 降级迁入
 - `default/infisical-vs-vault.md`：Infisical 与 Vault 的选型对比，自 `data/context` 按资产契约迁入
 - `language/not-x-but-y-paper.md`：arXiv:2610.22249 论文梳理——「不是X，而是Y」句式的 S/O/D 判定决策树与四类验证实验
 
