@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- 基础设施相关素材迁出至 quanttide-library-of-infrastructure：aliyun/（AgentCore、CDN 配额）与 default/infisical-vs-vault.md。
+
 ### 新增
 
 - `math/verify.md`：AI 参与生成的 1700 万行数学证明核验记录，属外部信息，自 `docs/gallery/math/` 降级迁入
